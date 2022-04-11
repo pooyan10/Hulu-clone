@@ -22,6 +22,7 @@ function Header() {
       </div>
       <div className="sm:mr-12">
         <Image
+          alt=""
           className=" object-contain "
           width={100}
           height={40}
